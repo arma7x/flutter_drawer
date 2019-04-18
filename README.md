@@ -1,4 +1,4 @@
-# Flutter Widget
+# Flutter Navigation Drawer Example
 
 > The navigation drawer is a UI panel that shows your app’s main
 > navigation menu. It is hidden when not in use, but appears when the

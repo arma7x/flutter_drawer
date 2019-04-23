@@ -1,5 +1,5 @@
-import 'package:flutter_drawer/fragments/index.dart';
-import 'package:flutter_drawer/screens/index.dart';
+import 'package:flutter_drawer/navigation/fragments.dart';
+import 'package:flutter_drawer/navigation/screens.dart';
 import 'package:flutter/material.dart';
 
 void main() => runApp(MyApp());
